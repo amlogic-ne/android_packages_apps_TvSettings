@@ -50,7 +50,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="@dimen/lb_preference_item_primary_text_margin_bottom"
-            android:fontFamily="sans-serif-condensed"
+            android:fontFamily="@string/font_google_sans_flex"
             android:textSize="@dimen/lb_preference_item_primary_text_size"
             android:textColor="@color/tp_preference_item_primary_text_color_selector"
             android:duplicateParentState="true"/>
@@ -58,7 +58,7 @@
             android:id="@android:id/summary"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:fontFamily="sans-serif-condensed"
+            android:fontFamily="@string/font_google_sans_flex"
             android:textSize="@dimen/lb_preference_item_secondary_text_size"
             android:textColor="@color/tp_preference_item_secondary_text_color_selector"
             android:maxLines="4"

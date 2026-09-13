@@ -24,14 +24,14 @@
         android:id="@+id/info_item_title"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fontFamily="sans-serif-condensed"
+        android:fontFamily="@string/preference_subtitle_text_font"
         android:textColor="@color/tp_preference_item_secondary_text_disabled_color"
         android:textSize="@dimen/tp_preference_item_secondary_text_size"/>
     <com.android.tv.twopanelsettings.SmoothScalingTextView
         android:id="@+id/info_item_summary"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fontFamily="sans-serif-condensed"
+        android:fontFamily="@string/preference_subtitle_text_font"
         android:textColor="@color/tp_preference_item_secondary_text_disabled_color"
         android:textSize="@dimen/tp_preference_item_secondary_text_size"/>
 </LinearLayout>

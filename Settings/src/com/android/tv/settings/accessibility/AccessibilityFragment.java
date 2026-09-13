@@ -74,7 +74,7 @@ public class AccessibilityFragment extends SettingsPreferenceFragment
     private static final String ACCESSIBILITY_FRAGMENT_TAG = "accessibility_fragment";
     private static final String SERVICE_PREF_TAG = "ServicePref:";
     private static final String TOGGLE_BOUNCE_KEY = "toggle_bounce_key";
-    private static final int BOLD_TEXT_ADJUSTMENT = 500;
+    private static final int BOLD_TEXT_ADJUSTMENT = 300;
     private static final int FIRST_PREFERENCE_IN_CATEGORY_INDEX = -1;
     private static final int BOUNCE_KEY_TIME_OUT = 500; //milliseconds
 

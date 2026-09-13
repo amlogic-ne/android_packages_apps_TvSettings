@@ -39,35 +39,35 @@
             android:gravity="center"
             android:textSize="@dimen/pin_number_picker_text_size"
             android:textColor="@color/pin_dialog_text_color"
-            android:fontFamily="@string/light_font" />
+            android:fontFamily="@string/font_google_sans_flex" />
         <TextView android:id="@+id/previous_number"
             android:layout_width="@dimen/pin_number_picker_text_view_width"
             android:layout_height="@dimen/pin_number_picker_text_view_height"
             android:gravity="center"
             android:textSize="@dimen/pin_number_picker_text_size"
             android:textColor="@color/pin_dialog_text_color"
-            android:fontFamily="@string/light_font" />
+            android:fontFamily="@string/font_google_sans_flex" />
         <TextView android:id="@+id/current_number"
             android:layout_width="@dimen/pin_number_picker_text_view_width"
             android:layout_height="@dimen/pin_number_picker_text_view_height"
             android:gravity="center"
             android:textSize="@dimen/pin_number_picker_text_size"
             android:textColor="@color/pin_dialog_text_color"
-            android:fontFamily="@string/light_font"/>
+            android:fontFamily="@string/font_google_sans_flex"/>
         <TextView android:id="@+id/next_number"
             android:layout_width="@dimen/pin_number_picker_text_view_width"
             android:layout_height="@dimen/pin_number_picker_text_view_height"
             android:gravity="center"
             android:textSize="@dimen/pin_number_picker_text_size"
             android:textColor="@color/pin_dialog_text_color"
-            android:fontFamily="@string/light_font" />
+            android:fontFamily="@string/font_google_sans_flex" />
         <TextView android:id="@+id/next2_number"
             android:layout_width="@dimen/pin_number_picker_text_view_width"
             android:layout_height="@dimen/pin_number_picker_text_view_height"
             android:gravity="center"
             android:textSize="@dimen/pin_number_picker_text_size"
             android:textColor="@color/pin_dialog_text_color"
-            android:fontFamily="@string/light_font" />
+            android:fontFamily="@string/font_google_sans_flex" />
         </LinearLayout>
 
 </FrameLayout>

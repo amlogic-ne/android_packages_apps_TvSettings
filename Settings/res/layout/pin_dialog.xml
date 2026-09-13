@@ -30,7 +30,7 @@
         android:gravity="center"
         android:textSize="@dimen/pin_dialog_wrong_pin_text_size"
         android:textColor="@color/pin_dialog_text_color"
-        android:fontFamily="@string/font"
+        android:fontFamily="@string/font_google_sans_flex"
         android:visibility="gone" />
 
     <LinearLayout
@@ -47,7 +47,7 @@
             android:layout_marginBottom="@dimen/pin_dialog_title_bottom_margin"
             android:textSize="@dimen/pin_dialog_title_text_size"
             android:textColor="@color/pin_dialog_text_color"
-            android:fontFamily="@string/font" />
+            android:fontFamily="@string/font_google_sans_flex" />
 
         <LinearLayout
             android:layout_width="@dimen/pin_dialog_pin_numbers_width"

@@ -16,11 +16,11 @@
   -->
 
 <resources>
-    <string name="preference_title_text_font" translatable="false">sans-serif</string>
-    <string name="preference_subtitle_text_font" translatable="false">sans-serif</string>
-    <string name="preference_category_text_font" translatable="false">sans-serif-medium</string>
-    <string name="preference_list_item_text_font" translatable="false">sans-serif</string>
-    <string name="preference_list_item_secondary_text_font" translatable="false">roboto-regular</string>
+    <string name="preference_title_text_font" translatable="false">google-sans-flex</string>
+    <string name="preference_subtitle_text_font" translatable="false">google-sans-flex</string>
+    <string name="preference_category_text_font" translatable="false">google-sans-flex</string>
+    <string name="preference_list_item_text_font" translatable="false">google-sans-flex</string>
+    <string name="preference_list_item_secondary_text_font" translatable="false">google-sans-flex</string>
     <!-- Informational text indicating on state of a SwitchPreference toggle [CHAR LIMIT=50] -->
     <string name="info_status_on">On</string>
     <!-- Informational text indicating off state of a SwitchPreference toggle [CHAR LIMIT=50] -->
@@ -38,6 +38,6 @@
     <string name="font_provider_package" translatable="false">stubbed</string>
     <string name="font_provider_query" translatable="false">stubbed</string>
     <string name="font_provider_query_medium" translatable="false">stubbed</string>
-    <string name="font_provider_system_font_family" translatable="false">stubbed</string>
-    <string name="font_provider_system_font_family_medium" translatable="false">stubbed</string>
+    <string name="font_provider_system_font_family" translatable="false">google-sans-flex</string>
+    <string name="font_provider_system_font_family_medium" translatable="false">google-sans-flex</string>
 </resources>

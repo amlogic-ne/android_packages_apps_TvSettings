@@ -2384,8 +2384,6 @@
     <string name="app_sees_restricted_accounts_and_controlled_by">This app can access your accounts. Controlled by <xliff:g id="app">%1$s</xliff:g></string>
     <!-- PIN UX -->
     <eat-comment />
-    <string name="font" translatable="false">sans-serif</string>
-    <string name="light_font" translatable="false">sans-serif-light</string>
     <!-- Title of PIN dialog when an user is asked to enter PIN to unlock channel.
          [CHAR LIMIT=50] -->
     <string name="pin_enter_unlock_channel">Enter PIN to watch this channel</string>
@@ -2910,10 +2908,7 @@
     <string name="system_tv_title">Television</string>
     <!-- Title for "Monitor" settings [CHAR LIMIT=60] -->
     <string name="menu_monitor">Monitor</string>
-    <string name="font_sans_serif" translatable="false">sans-serif</string>
-    <string name="font_sans_serif_light" translatable="false">sans-serif-light</string>
-    <string name="font_sans_serif_thin" translatable="false">sans-serif-thin</string>
-    <string name="font_sans_serif_condensed" translatable="false">sans-serif-condensed</string>
+    <string name="font_google_sans_flex" translatable="false">google-sans-flex</string>
 
     <!-- Adb wireless pairing device dialog ethernet pairing code label [CHAR LIMIT=60] -->
     <string name="adb_pairing_device_dialog_ethernet_pairing_code_label">Ethernet pairing code</string>
